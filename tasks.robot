@@ -29,6 +29,8 @@ Order the robotos
 ***Keywords***
 Set up directories
     Create Directory    ${PDF_TEMP_OUTPUT_DIRECTORY}
+
+    asdasd
    
 Open the Browser    
         Open Available Browser    https://robotsparebinindustries.com/#/robot-order
